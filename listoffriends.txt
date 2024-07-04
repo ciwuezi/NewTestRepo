@@ -8,3 +8,5 @@ Paul
 Phil
 Solo
 Mathew
+Peter
+John
